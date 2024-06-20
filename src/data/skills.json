@@ -1,0 +1,46 @@
+{
+    "skills":[
+        {
+             "id": 1, 
+            "title": "Node JS",
+            "image": "https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        },
+        {
+             "id": 2, 
+            "title": "MongoDB",
+            "image":  "https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        },
+        {
+             "id": 3, 
+            "title": "React JS",
+            "image": "https://cdn.iconscout.com/icon/free/png-512/free-react-3627237-3029645.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        },
+        {
+             "id":4, 
+            "title": "HTML",
+            "image": "https://cdn.iconscout.com/icon/free/png-512/free-html-58-225994.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        },
+        {
+             "id": 5, 
+            "title": "Tailwind",
+            "image": "https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        },
+        {
+             "id": 6, 
+            "title": "Express JS",
+            "image": "https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=webp&w=256",
+            "percantage": 90,
+            "isFeatured": true
+        }
+    ]
+}
